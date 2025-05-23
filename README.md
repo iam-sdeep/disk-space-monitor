@@ -125,7 +125,7 @@ MIT
 Questions? Open an issue or reach out!  
 
 **GitHub:** [YourProfile](https://github.com/iam-sdeep)  
-  
+**Blog:** [YourBlogLink](https://sdeep.hashnode.dev/how-to-monitor-disk-space-and-set-up-email-alerts-on-linux)  
 
 --- 
 
